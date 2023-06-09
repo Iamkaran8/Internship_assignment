@@ -1,0 +1,56 @@
+*{
+    background-color:  #0c0c0c;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+.container{
+    margin-top: 20px;
+    padding: 20px;
+    margin-left: 100px;
+}
+span{
+    padding: 20px;
+    color:aliceblue;
+    width: 100px;
+}
+.contact{
+    margin-left: 550px;
+    background-color: #1bdebc;
+    padding: 10px;
+    height: 50px;
+    width: 70px;
+    color: #007560;
+}
+.profile img{
+    margin-top: 150px;
+    height: 450px;
+    width: 400px;
+}
+.profile{
+    display: flex;
+}
+.content {
+    margin-top: 150px;
+    margin-left: 130px;
+    padding: 10px;
+}
+h4{
+    color:#2acda7;
+    font-size: 25px;
+}
+h3{
+    color: #e2e2e2;
+}
+p{
+    color: aliceblue;
+}
+.content span{
+    border: 2px solid #2acda7;
+    padding: 10px;
+    
+}
+.btn{
+    padding: 20px;
+    font-size: 15px;
+    color: #45b79d;
+}
